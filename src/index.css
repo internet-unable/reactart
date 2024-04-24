@@ -19,16 +19,6 @@ body {
     background-size: cover;
 }
 
-button {
-    cursor: pointer;
-    background: none;
-    line-height: inherit;
-}
-
-button:focus {
-    outline: none;
-}
-
 #auth-inputs {
     width: 100%;
     max-width: 28rem;
